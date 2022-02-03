@@ -1,0 +1,144 @@
+@media screen and (max-width:1400px){
+    #logo{
+        width: 30%;
+    }
+    #logo h1{
+        font-size: 33px;
+    }
+}
+@media screen and (max-width:1201px){
+    #navbarNav ul li a{
+        font-size: 19px;
+    }
+    #logo h1{
+        font-size: 30px;
+    }
+    #o-nama{
+        font-size: 26px;
+    }
+    #nasTim{
+        font-size: 26px;
+    }
+    .mp{
+        font-size: 16px;
+    }
+    .services p{
+        font-size: 15px;
+    }
+    .stat-items h2{
+        font-size: 50px;
+    }
+    .stat-items h5{
+        font-size: 18px;
+    }
+    #glider h3{
+        font-size: 26px;
+    }
+    #kontakt{
+        font-size: 26px;
+    }
+}
+@media screen and (max-width:1172px){
+    #logo h1{
+        font-size: 27px;
+    }
+    #navbarNav ul li a{
+        font-size: 18px;
+    }
+}
+@media screen and (max-width:1048px){
+    #logo h1{
+        font-size: 25px;
+    }
+    #o-nama{
+        font-size: 24px;
+    }
+    #nasTim{
+        font-size: 24px;
+    }
+    .stat-items h2{
+        font-size: 47px;
+    }
+    #glider h3{
+        font-size: 24px;
+    }
+
+}
+@media screen and (max-width:1002px){
+    #logo h1{
+        font-size: 27px;
+    }
+    #navbarNav ul li a{
+        font-size: 18px;
+    }
+    .services p{
+        font-size: 14px;
+    }
+    .services h4{
+        font-size: 22px;
+    }
+    .stat-items h2{
+        font-size: 43px;
+    }
+    .stat-items h5{
+        font-size: 17px;
+    }
+    .glider{
+        font-size: 15px;
+    }
+}
+@media screen and (max-width:767px){
+     .services p{
+         font-size: 17px;
+     }
+     .services h4{
+         font-size: 24px;
+     }
+     .mp{
+         font-size: 17px;
+     }
+     #f h4{
+         font-size: 22px;
+     }
+     
+    
+     
+}
+@media screen and (max-width:650px){
+    #logo h1{
+        font-size: 25px;
+    }
+    #f h4{
+        font-size: 20px;
+    }
+}
+@media screen and (max-width:537px){
+    #logo h1{
+        font-size: 20px;
+    }
+}
+@media screen and (max-width:443px){
+    #logo h1{
+        font-size: 18px;
+    }
+    #n button{
+        font-size: 12px;
+    }
+    #f h4{
+        font-size: 18px;
+    }
+    #font p{
+        font-size: 15px;
+    }
+    #copy p{
+        font-size: 15px;
+    }
+}
+@media screen and (max-width:400px){
+    #logo h1{
+        font-size: 17px;
+    }
+    #n button{
+        font-size: 11px;
+    }
+}

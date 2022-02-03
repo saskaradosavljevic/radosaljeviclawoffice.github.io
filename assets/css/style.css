@@ -1,0 +1,123 @@
+@import url('https://fonts.googleapis.com/css2?family=Bebas+Neue&family=Cinzel:wght@500&family=Crimson+Pro:wght@200&family=Montserrat:wght@100;200&display=swap');
+
+*{
+    font-family: 'Montserrat', sans-serif;
+}
+header{
+    width: 100%;
+}
+#logo{
+    margin-top: 5px;
+}
+
+#navbarNav ul li a{
+    font-size: 21px;
+    color: black;
+}
+#slider{
+    width: 100%;
+}
+#slider img{
+    width: 100%;
+    display: none;
+}
+#slider .aktivna{
+    display: block;
+}
+
+p{
+    font-size: 19px;
+}
+span{
+    font-weight: bold;
+}
+#stats{
+    padding-top: 60px;
+    padding-bottom: 60px;
+}
+#stats{
+    background: url('../img/counter1.jpg') no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+
+}
+.stat-items h2{
+    font-size: 54px;
+    color: #fff;
+}
+.stat-items h5{
+    font-size: 20px;
+    color: #fff;
+}
+
+.services{
+    padding: 30px;
+    margin-bottom: 60px;
+    border:1px solid #c2c2c2;
+}
+.services p{
+    font-size: 18px;
+}
+h3{
+    font-size: 30px;
+}
+
+#galerija{
+    width: 100%;
+    margin: 0 auto;
+}
+.images{
+    margin: 0 auto;
+}
+.images img{
+    width: 100%;
+    margin-bottom: 20px;
+}
+
+.images figure {
+    position:relative;
+}
+.images figcaption {
+    position: absolute;
+    bottom: 30px;
+    left: 20px;
+    background: #fff;
+    padding: 5px 10px;
+    display: none;
+    font-weight: bold;
+}
+.greska{
+    display: none;
+}
+
+.prikaz{
+    display: block;
+}
+#panel0{
+    display: none;
+}
+#panel1{
+    display: none;
+}
+#panel2{
+    display: none;
+}
+#glider{
+    background: url("../img/counter1.jpg") no-repeat;
+    background-attachment: fixed;
+    background-size: cover;
+}
+#glider h3{
+    color: #fff;
+}
+.glider{
+    font-size: 18px;
+}
+.glider figure{
+    color: #fff;
+}
+#f{
+    background-color: rgb(124, 124, 124);
+}
+
+
